@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @HaTranThai
-- 🌱 I’m currently learning hadoop, spark, airflow, terraform,...
+- 👋 Hi, I’m Tran Binh Minh =>
+- 🌱 I’m currently learning machine learning, deep learning, docker, tensorflow,...
 
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
