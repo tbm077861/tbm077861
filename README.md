@@ -1,6 +1,22 @@
-## Hi there 👋
+- 👋 Hi, I’m @HaTranThai
+- 🌱 I’m currently learning hadoop, spark, airflow, terraform,...
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tbm077861&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tbm077861&layout=compact)
+<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tbm077861&theme=radical&show_icons=true" />
+    </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tbm077861&layout=compact&langs_count=8&card_width=320&theme=radical&show_icons=true" />
+    </a>
+  <br/>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/tran-binh-minh-358070289/) | [Portfolio](https://tbm077861.dev)
+
+
+
+<!---
+HaTranThai/HaTranThai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
